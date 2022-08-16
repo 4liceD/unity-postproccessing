@@ -11,3 +11,6 @@ Tacoverse:
 
 Cyberpunk Alley:
 ![438100_20220813145639_1](https://user-images.githubusercontent.com/95102992/184495349-0991943a-4eee-4a32-823d-d10d04cb2bbb.png)
+
+Scandinavian Home:
+![661130_20220816150600_1](https://user-images.githubusercontent.com/95102992/184888940-7fb0582c-1ef4-4a01-9a1e-7cdb3e182111.png)
