@@ -14,3 +14,6 @@ Cyberpunk Alley:
 
 Scandinavian Home:
 ![661130_20220816150600_1](https://user-images.githubusercontent.com/95102992/184888940-7fb0582c-1ef4-4a01-9a1e-7cdb3e182111.png)
+
+The room of the sleep:
+![VRChat_3840x2160_2022-08-25_00-47-42 773](https://user-images.githubusercontent.com/95102992/186538196-4690ad64-95af-4f6d-9d2e-1fb772bfa0d5.png)
