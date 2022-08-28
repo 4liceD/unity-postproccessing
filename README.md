@@ -1,5 +1,5 @@
 This repository contains all my unity postproccessing preset that I use in different worlds. More postrprocessing prefabs will be slowly added in the future.
-Want to contribute your own presets? Just make a pull request and provide a preview picture
+Want to contribute your own presets? Just make a pull request and ensure to include a preview picture
 
 Rooftop Night:
 ![661130_20220810082551_1](https://user-images.githubusercontent.com/95102992/184495286-2585a68d-d9dc-4725-84e8-5aa5634b6c47.png)
