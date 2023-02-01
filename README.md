@@ -16,5 +16,12 @@ Cyberpunk Alley:
 Scandinavian Home:
 ![661130_20220816150600_1](https://user-images.githubusercontent.com/95102992/184888940-7fb0582c-1ef4-4a01-9a1e-7cdb3e182111.png)
 
-The room of the sleep:
-![VRChat_3840x2160_2022-08-25_00-47-42 773](https://user-images.githubusercontent.com/95102992/186538196-4690ad64-95af-4f6d-9d2e-1fb772bfa0d5.png)
+The room of the sleep 3.0:
+![VRChat_2023-02-01_18-05-34 917_1920x1080](https://user-images.githubusercontent.com/95102992/216112397-f4b20fe2-c38e-4f80-8961-85fc25f44188.png)
+
+Vrcon Stage:
+![VRChat_2023-02-01_18-06-59 661_1920x1080](https://user-images.githubusercontent.com/95102992/216112485-0d2186c8-c574-407b-b963-1050ecd58447.png)
+
+Digital Rabbithole:
+![VRChat_2023-02-01_18-06-13 110_1920x1080](https://user-images.githubusercontent.com/95102992/216112505-5f8f3a83-96ac-4911-815d-86483b29fa64.png)
+
